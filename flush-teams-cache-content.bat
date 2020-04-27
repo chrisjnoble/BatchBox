@@ -1,6 +1,6 @@
+@echo off
 REM Sometimes Microsoft Teams doesn't open or work properly. Flushing some cache things seems to help. This batch file does that.
 REM Created 21 April 2020, Chris Noble
-@echo off
 setlocal
 echo ----------------------------------------------------
 echo A small batch file to flush some Teams cache content
